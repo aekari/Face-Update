@@ -3,7 +3,7 @@ void setup() {                                              // beginning of setu
 };                                                          // end of size setup function
 
 void draw() {                                               // beginning of draw function
-  int deadCenter = width/2;                                 // create a variable called deadCenter with an interger datatype and assign it a relative value of the width of the canvas, divided by 2
+  int deadCenter = width/2;                                 // create a variable called deadCenter with an integer datatype and assign it a relative value of the width of the canvas, divided by 2
   //this if/and statement toggles the body and background colors 
   if ((mouseX > 250) && (mouseX < 550) &&                   // if the mouse's x axis position is between 250px and 550 px AND...
     (mouseY > 250) && (mouseY < 550)) {                     // if the mouse's y axis position is between 250px and 550 px, do the following:
@@ -55,7 +55,7 @@ void draw() {                                               // beginning of draw
     ellipse(deadCenter, deadCenter, 300, 300);              // create a circle that is in the middle of the canvas and 300x300 px wide/high
     stroke(#000000);                                        // make the outline black
     //closed eyes:
-    strokeWeight(9);                                        // make the lineweight very thick
+    strokeWeight(9);                                        // make the line weight very thick
     line(290, 385, 370, 385);                               // left closed eye
     line(430, 385, 510, 385);                               // right closed eye
     fill(#000000);                                          // fill the ellipse in black

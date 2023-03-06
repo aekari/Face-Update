@@ -11,7 +11,7 @@ This project was made during week 4 of [Programming for Artists](https://iq2prod
 
 My goal was to create a Processing 5 sketch that displayed a repeated background that is triggered when the mouse x and y coordinates are hovering within a particular range of the canvas.
 
-If you are curious how I accomplished this, please look the ![.pde file](https://github.com/aekari/Face-Update/blob/master/face_update/face_update.pde) as I have commented every line of code explaining what everything means.
+If you are curious how I accomplished this, please look the .[pde file](https://github.com/aekari/Face-Update/blob/master/face_update/face_update.pde) as I have commented every line of code explaining what everything means.
 
 ## Setup/Installation Requirements
 

@@ -18,7 +18,7 @@ If you are curious how I accomplished this, please look the .[pde file](https://
 1. Install [Processing](https://processing.org)
 2. Download this repository to your local computer
 3. Open the .pde file in Processing and run the sketch
-4. Hover over the face to "wake up" the character and change the background
+4. Hover over the face to "wake up" the character and change the background 😴→😲
 
 <img src="https://i.imgur.com/2WptU2q.gif" width=50%>
 
